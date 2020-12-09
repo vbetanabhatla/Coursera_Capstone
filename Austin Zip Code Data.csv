@@ -1,4 +1,4 @@
-Zip Code,Latitude,Longitude,Population, Avg_HH_Income ,National Rank
+Zip_Code,Latitude,Longitude,Population, Avg_HH_Income ,National_Rank
 78730,30.363632,-97.850355,4885,128524,58
 78732,30.382536,-97.894904,3629,103951,209
 78739,30.178839,-97.889064,8643,102707,227
